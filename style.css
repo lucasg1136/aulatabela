@@ -1,0 +1,23 @@
+.produtos li{
+    mask-type: none;
+}
+
+.valor{
+    text-decoration-style: none;
+}
+
+.p1{
+    
+    background-color: #1925ca5e;
+    
+}
+
+.p2{
+    background-color:#F0CCE2 ;
+    
+}
+
+.texto{
+    padding: 20px;
+    margin: 40px;
+}
